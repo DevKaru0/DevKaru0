@@ -12,7 +12,7 @@ Estou sempre buscando aprimorar minhas habilidades e expandir meu conhecimento n
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio Code (VS Code) , Git e Github , React.js e Bootstrap , Figma .
+  💼 Ferramentas: Visual Studio Code (VS Code) , Git e Github , React.js , Bootstrap e Figma .
 </p>
 
 <p align="left">
