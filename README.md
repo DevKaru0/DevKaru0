@@ -8,7 +8,7 @@ Estou sempre buscando aprimorar minhas habilidades e expandir meu conhecimento n
 </p>
 
 <p align="left">
-  🦄 Linguagens:  JavaScript,TypeScript,Python.
+  🦄 Linguagens: JavaScript, e Python.
 </p>
 
 <p align="left">
