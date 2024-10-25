@@ -3,7 +3,7 @@
 <p align="left"> 
 Meu nome é Carlos Gabriel, e estou me especializando em desenvolvimento front-end,
 com forte habilidade em <strong>HTML, CSS e JavaScript</strong>.<br>
-Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e trabalho de forma autônoma, desenvolvendo sites para clientes de diversas áreas. 
+Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e trabalho de forma autônoma e desenvolvendo sites para aprendizado de diversas áreas. 
 Estou sempre buscando aprimorar minhas habilidades e expandir meu conhecimento na área de desenvolvimento web.
 </p>
 
